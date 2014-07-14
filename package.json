@@ -1,0 +1,19 @@
+{
+  "name": "rapid-log",
+  "version": "0.0.0",
+  "description": "a log tools for rapidjs",
+  "main": "log.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "clouda+",
+    "webapp",
+    "framework",
+    "log tools"
+  ],
+  "author": "wangsu01@baidu.com",
+  "license": "MIT"
+}
